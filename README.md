@@ -1,0 +1,2 @@
+# Jinxxy-License-Verification
+Jinxxy's API is a little difficult to grasp just from the documentation, so I created this example and explaination for how to make a verification script (like a discord bot) to validate licenses on jinxxy.
